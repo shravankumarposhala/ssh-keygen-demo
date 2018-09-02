@@ -2,3 +2,7 @@
 
 
 2) To disaply this Ssh key command --- cat ~/.shh/id_rsa.pub
+
+3) It's work for remote servers.
+
+4) Delete sshkey command -- rm ~/.ssh/id_rsa.pub
