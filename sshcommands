@@ -1,0 +1,4 @@
+ 1) Create an sshkey command --- ssh-keygen
+
+
+2) To disaply this Ssh key command --- cat ~/.shh/id_rsa.pub
