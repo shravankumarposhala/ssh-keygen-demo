@@ -6,3 +6,6 @@
 3) It's work for remote servers.
 
 4) Delete sshkey command -- rm ~/.ssh/id_rsa.pub
+
+
+5) how to create pravate and pubilc keys? 
